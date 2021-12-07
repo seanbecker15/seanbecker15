@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/github/followers/seanbecker15?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/seanbecker15">
-    <img src="https://img.shields.io/twitter/follow/seanbecker15?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/_SeanBecker?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
