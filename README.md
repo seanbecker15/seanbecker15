@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+  <a href="https://github.com/seanbecker15?tab=followers">
+    <img src="https://img.shields.io/github/followers/seanbecker15?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/seanbecker15">
+    <img src="https://img.shields.io/twitter/follow/seanbecker15?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
+
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=seanbecker15&show_icons=true&theme=nightowl" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=seanbecker15&theme=nightowl" />
+</p>
+
+#### How to reach me:
+
+- https://twitter.com/_SeanBecker
+
+<br/>
