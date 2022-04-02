@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
+<!--
 <p align="center">
   <a href="https://github.com/seanbecker15?tab=followers">
     <img src="https://img.shields.io/github/followers/seanbecker15?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
@@ -24,6 +25,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/twitter/follow/_SeanBecker?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
+-->
 
 
 <p align="center">
