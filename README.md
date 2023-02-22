@@ -1,21 +1,18 @@
-### Hi there 👋
+# Welcome to my GitHub!
 
-<!--
-**seanbecker15/seanbecker15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Here's what I'm working on...
+- Fubo SmartTV Platform
+  - Improving the DX and performance of our navigation system. Remote controls make this pretty interesting.
+- Contributing to https://github.com/necojackarc/auto-request-review
+  - Add better support for monorepos
+- Personal website
 
 
+## Contact
+- If you're hoping to contribute to one of my projects, feel free to open an issue
+- Not sure how to reach me? [Send me a message on Twitter.](https://twitter.com/_SeanBecker)
+
+<!-- Badges removed until I figure out which ones I actually want...   -->
 <!--
 <p align="center">
   <a href="https://github.com/seanbecker15?tab=followers">
@@ -26,15 +23,3 @@ Here are some ideas to get you started:
   </a>
 </p>
 -->
-
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=seanbecker15&show_icons=true&theme=nightowl" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=seanbecker15&theme=nightowl" />
-</p>
-
-#### How to reach me:
-
-- https://twitter.com/_SeanBecker
-
-<br/>
