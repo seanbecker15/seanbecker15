@@ -2,9 +2,9 @@
 
 ## Here's what I'm working on...
 - Fubo SmartTV Platform
-  - Improving the DX and performance of our navigation system. Remote controls make this pretty interesting.
-  - Contributed to our playback controls and am learning about video playback
-  - Improved development ecosystem for Xbox and LG (WebOS)
+  - Improved the DX and performance of our navigation system. Remote controls make this pretty interesting.
+  - Improved development ecosystem for Xbox and LG (WebOS).
+  - Contributed to our playback controls and am learning about video playback.
 - Personal website
 
 
