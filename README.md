@@ -3,10 +3,8 @@
 ## Here's what I'm working on...
 - Fubo SmartTV Platform
   - Improving the DX and performance of our navigation system. Remote controls make this pretty interesting.
-  - I'm the code owner of our new navbar (sidebar)
-  - I've contributed to our playback controls and am learning about video playback
-- Contributing to https://github.com/necojackarc/auto-request-review
-  - Add better support for monorepos
+  - Contributed to our playback controls and am learning about video playback
+  - Improved development ecosystem for Xbox and LG (WebOS)
 - Personal website
 
 
