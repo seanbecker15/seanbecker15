@@ -1,11 +1,11 @@
 # Welcome to my GitHub!
 
-## Here's what I'm working on...
+## Here's what I've been up to...
 - Fubo SmartTV Platform
   - Improved the DX and performance of our navigation system. Remote controls make this pretty interesting.
   - Improved development ecosystem for Xbox and LG (WebOS).
   - Contributed to our playback controls and am learning about video playback.
-- Personal website
+- Wrote a [new generic webdriver backend](https://github.com/seanbecker15/generic-webdriver-server/tree/webos-backend/backends/webos#readme) for Shaka video player testing (open source)
 
 
 ## Contact
