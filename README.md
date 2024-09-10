@@ -1,4 +1,4 @@
-# Welcome to my GitHub!
+# Sean Becker - GitHub Home
 
 ## Here's what I've been up to...
 - Fubo SmartTV Platform
