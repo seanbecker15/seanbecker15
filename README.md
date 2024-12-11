@@ -1,16 +1,12 @@
-# Sean Becker GitHub
-
-## Here's what I've been up to...
-- Fubo SmartTV Platform
-  - Improved the DX and performance of our navigation system. Remote controls make this pretty interesting.
-  - Improved development ecosystem for Xbox and LG (WebOS).
-  - Contributed to our playback controls and am learning about video playback.
-- Wrote a [new generic webdriver backend](https://github.com/seanbecker15/generic-webdriver-server/tree/webos-backend/backends/webos#readme) for Shaka video player testing (open source)
+## Latest
+- Contributed to javascript based media player ([Shaka](https://github.com/shaka-project/shaka-player) and [hls.js](https://github.com/video-dev/hls.js))
+- Created CLI based chatbot to query and analyze client analytics from datadog
+- WebDriver tool to fetch standings for fantasy league ([cbs-fantasy-tooling](https://github.com/seanbecker15/cbs-fantasy-tooling))
 
 
 ## Contact
-- If you're hoping to contribute to one of my projects, feel free to open an issue
-- Not sure how to reach me? [Send me a message on Twitter.](https://twitter.com/_SeanBecker)
+- Looking to contribute to a project? Open an issue
+- [Send me a message on Twitter](https://twitter.com/_SeanBecker)
 
 <!-- Badges removed until I figure out which ones I actually want...   -->
 <!--
