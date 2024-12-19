@@ -1,3 +1,5 @@
+![](https://images.fubo.tv/page-manager/USA/classic-ad-banner/UEFA_Nations_ctv.png)
+
 ## Latest
 - Contributed to javascript based media player ([Shaka](https://github.com/shaka-project/shaka-player) and [hls.js](https://github.com/video-dev/hls.js))
 - Created CLI based chatbot to query and analyze client analytics from datadog
