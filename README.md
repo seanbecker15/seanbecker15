@@ -6,9 +6,7 @@
 
 ## Contact
 - Looking to contribute to a project? Open an issue
-- [Send me a message on Twitter](https://twitter.com/_SeanBecker)
-
-[![Tweet](https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1ca4_shields.io.svg)](https://x.com/theseanbecker)
+- [![Tweet](https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1ca4_shields.io.svg)](https://x.com/theseanbecker)
 
 <!-- Badges removed until I figure out which ones I actually want...   -->
 <!--
