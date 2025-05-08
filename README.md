@@ -1,5 +1,5 @@
 ## Latest
-- Contributed to javascript based media player ([Shaka](https://github.com/shaka-project/shaka-player) and [hls.js](https://github.com/video-dev/hls.js))
+- Led upgrade from native media players to MSE based media players on Smart TV devices (~150k concurrent users)
 - Created CLI based chatbot to query and analyze client analytics from datadog
 - WebDriver tool to fetch standings for fantasy league ([cbs-fantasy-tooling](https://github.com/seanbecker15/cbs-fantasy-tooling))
 
